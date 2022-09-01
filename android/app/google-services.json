@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "607303690215",
+    "project_id": "practice-fbefb",
+    "storage_bucket": "practice-fbefb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607303690215:android:f0491e464f4436a0317f42",
+        "android_client_info": {
+          "package_name": "com.modegargar.app.noti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607303690215-siip395baaosqqsh47rv6l4r2l3je9rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-69DJDoYwd3g6zlvtfAnyU9sUSP8i9xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607303690215-siip395baaosqqsh47rv6l4r2l3je9rf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "607303690215-1c7j86pfghbonlbhn1pmfvs92g70ka1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.modegargar.app.noti"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
